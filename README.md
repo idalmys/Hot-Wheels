@@ -1,3 +1,7 @@
+
+![project2 ](hotwheels.png)
+
+
 # Project2 - Hot Wheels
 
 <b>Hot Wheels</b> is a luxury car rental application hosted on Heroku. The app allows users to browse available cars, filter on various attributes, register as a new user or login as an existing user, rent the car and return it in the system when fininshed.
